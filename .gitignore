@@ -20,6 +20,7 @@ out/
 *.pem
 .vscode
 collections/
+appnext/
 
 # debug
 npm-debug.log*
