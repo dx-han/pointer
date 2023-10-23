@@ -1,0 +1,17 @@
+Pointer
+
+Current features:
+
+- edit text in the area of editor
+
+- share and paste the same URL link to multiple browsers, and can make collaborative editing in real time
+
+- simple document storage via sqllite
+
+Next steps:
+
+- convert the plain editor into Markdown notebook
+
+- add basic operations for notes: full text search, download, share, delete
+
+- integrate mutiple coding compilers (includes python/go/rust/typescript) into the Markdown area, which can support run codes!
