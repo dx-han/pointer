@@ -8,6 +8,12 @@ Inspired by Gist and Jupyter Notebook, users can edit, compile, and run inline c
 
 ![1](public/screenshot01.png)
 
+## Workplace
+
+1. [UI design in Figma](https://www.figma.com/file/01QqRzOoEJUCsGqrhdH9MQ/pointer-ui?type=design&mode=design&t=D62E2cHv0dzMgHZN-1)
+
+2. [Agile board](https://github.com/users/dx-han/projects/2)
+
 ## Features
 
 Current features:
@@ -69,9 +75,3 @@ npm run dev
 Visit `localhost:3030` to see the current view of pointer.
 
 ## System design diagram (TBD)
-
-## Workplace
-
-1. [UI design](https://www.figma.com/file/01QqRzOoEJUCsGqrhdH9MQ/pointer-ui?type=design&mode=design&t=D62E2cHv0dzMgHZN-1)
-
-2. [Agile board](https://github.com/users/dx-han/projects/2)
