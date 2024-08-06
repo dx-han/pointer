@@ -48,7 +48,7 @@ docker run --name pointer -it --rm -d -p 3030:3030 patrickpro2/pointer
 
 ```
 # create docker image
-docker built -t pointer .
+docker build -t pointer .
 
 # run the container
 docker run --name pointer -it --rm -d -p 3030:3030 patrickpro2/pointer
